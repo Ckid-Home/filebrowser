@@ -1,8 +1,6 @@
 > [!WARNING]
 > 
-> **File Browser is archived on 2026-09-01**. The last planned release, [v2.63.22](https://github.com/filebrowser/filebrowser/releases/tag/v2.63.22), has already shipped. It contains no functional changes, only a wind-down notice. There will be no further releases, bug fixes, or security fixes. Existing releases and Docker images stay online and are not withdrawn.
->
-> No further changes will be made to the project. Issue and pull request creation is limited to collaborators.
+> **File Browser is archived on 2026-09-01**. The last planned release, [v2.63.22](https://github.com/filebrowser/filebrowser/releases/tag/v2.63.22), has already shipped. There will be no further releases, bug fixes, or security fixes. Existing releases and Docker images stay online and are not withdrawn.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/filebrowser/filebrowser/master/branding/banner.png" width="550"/>
